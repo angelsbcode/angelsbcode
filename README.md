@@ -8,7 +8,7 @@ Peter</a></h1>
 
 - 🔭 I’m currently working in <a href="https://zeniaq.com/" target="blank">Zeniaq Technologies</a> as an intern
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on Research and Investigation
 
 - 🤝 I’m available for freelancing.
 
